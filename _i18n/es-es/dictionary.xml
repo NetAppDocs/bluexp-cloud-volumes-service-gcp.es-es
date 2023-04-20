@@ -131,7 +131,6 @@
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp ofrece soporte para BlueXP y sus servicios cloud de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opciones están disponibles de forma gratuita, las 24 horas del día, los 7 días de la semana:</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de conocimientos</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Busque en la base de conocimientos de BlueXP para encontrar artículos útiles para resolver problemas.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunidades</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -191,7 +190,6 @@
   <block id="7ae2f6cdaa02d5b8678d14f3f489a073" category="list-text">Proteja los datos con copias snapshot eficientes y automatizadas.</block>
   <block id="17872268d34a8da9354d5922e34fce78" category="list-text">Acelere el desarrollo de aplicaciones con un clonado rápido.</block>
   <block id="20b4f77bd00b4f63a49ec8e08f3bf6a6" category="section-title">Coste</block>
-  <block id="fd17cbb3db356dbaaa35d12e13567cab" category="paragraph">Los volúmenes creados por Cloud Volumes Service para Google Cloud se cobran a su suscripción al servicio, no a través de BlueXP (anteriormente Cloud Manager).</block>
   <block id="b3153827b11df26704c2e383b3744bc7" category="paragraph">Para descubrir una región o volumen de Cloud Volumes Service para Google Cloud no hay ningún coste adicional de BlueXP.</block>
   <block id="bf3796a4651f53d9a137d45e05610b30" category="inline-link-macro">Vea los precios en Google Cloud Marketplace</block>
   <block id="8e1046c4123260638fe451866f95441f" category="paragraph"><block ref="8e1046c4123260638fe451866f95441f" category="inline-link-macro-rx"></block></block>
@@ -467,4 +465,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="ccf469f042f13df256e3337ee42f8ef7" category="paragraph">Los volúmenes que haya creado Cloud Volumes Service para Google Cloud se cargan a tu suscripción al servicio, no a través de BlueXP.</block>
 </blocks>
