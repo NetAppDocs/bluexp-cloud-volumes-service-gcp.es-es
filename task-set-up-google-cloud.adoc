@@ -46,7 +46,10 @@ La consola de cloud genera un ID de cuenta de servicio en función de este nombr
 . Para establecer los controles de acceso ahora, haga clic en *Crear* y, a continuación, en *HECHO* en la parte inferior de la página y continúe con el siguiente paso.
 . En la página _IAM_ haga clic en *Agregar* y rellene los campos de la página _Add Members_:
 +
-.. En el campo nuevos miembros, introduzca el ID de cuenta de servicio completo, por ejemplo, user1-service-account-cvs@project1.iam.gserviceaccount.com.
+.. En el campo Nuevos miembros, introduzca el ID de cuenta de servicio completo.
++
+Por ejemplo: \user1-service-account-cvs@project1.iam.gserviceaccount.com
+
 .. Añada estos roles:
 +
 *** _NetApp Cloud Volumes Admin_
