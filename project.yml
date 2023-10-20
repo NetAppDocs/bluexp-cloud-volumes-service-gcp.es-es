@@ -14,12 +14,14 @@ sidebar:
   - title: Documentos de Cloud Volumes Service para Google Cloud
     url: "/index.html"
   - title: Notas de la versión
-    url: "/whats-new.html"
+    entries:
+    - title: Novedades
+      url: "/whats-new.html"
   - title: Manos a la obra
     entries:
     - title: Más información sobre Cloud Volumes Service para Google Cloud
       url: "/concept-cvs-gcp.html"
-    - title: Inicio rápido
+    - title: Flujo de trabajo inicial
       url: "/task-quick-start.html"
     - title: Configure Google Cloud
       url: "/task-set-up-google-cloud.html"
